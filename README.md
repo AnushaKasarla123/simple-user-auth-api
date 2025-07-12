@@ -1,4 +1,4 @@
-# simple-user-auth-api# 🔐 Simple User Auth & CRUD API – Node.js + Express
+# Simple User Auth & CRUD API – Node.js + Express
 
 This is a beginner-friendly backend API built with **Node.js** and **Express.js** that handles:
 
